@@ -14,14 +14,15 @@
             "id": "https://belajosa.github.io/gh-pages/parkinson-umea-2.html",
             "url": "https://belajosa.github.io/gh-pages/parkinson-umea-2.html",
             "title": "Parkinson Umeå",
-            "content_html": "<p class=\"msg msg--highlight \"><strong>Text här</strong></p>\n<p class=\"msg msg--highlight \"><strong>Mera text</strong></p>",
+            "content_html": "<p class=\"msg msg--highlight \"><strong>Lokalföreningen i Umeå</strong></p>\n<p class=\"msg msg--highlight \"><strong>Här finns även medlemmarna i randkommunerna medf</strong></p>",
+            "image": "https://belajosa.github.io/gh-pages/media/posts/2/",
             "author": {
                 "name": "BE Johansson"
             },
             "tags": [
             ],
             "date_published": "2018-06-09T04:04:27+02:00",
-            "date_modified": "2018-06-09T04:04:27+02:00"
+            "date_modified": "2018-07-20T13:42:30+02:00"
         },
         {
             "id": "https://belajosa.github.io/gh-pages/parkinson-umea.html",
