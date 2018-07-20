@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Parkinson Västerbotten</title>
+    <link href="https://belajosa.github.io/gh-pages/feed.xml" rel="self" />
+    <link href="https://belajosa.github.io/gh-pages" />
+    <updated>2018-07-20T13:40:08+02:00</updated>
+    <author>
+        <name>BE Johansson</name>
+    </author>
+    <id>https://belajosa.github.io/gh-pages</id>
+
+    <entry>
+        <title>Parkinson Umeå</title>
+        <author>
+            <name>BE Johansson</name>
+        </author>
+        <link href="https://belajosa.github.io/gh-pages/parkinson-umea-2.html"/>
+        <id>https://belajosa.github.io/gh-pages/parkinson-umea-2.html</id>
+
+        <updated>2018-06-09T04:04:27+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <p class="msg msg--highlight "><strong>Text här</strong></p>
+<p class="msg msg--highlight "><strong>Mera text</strong></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Parkinson Umeå</title>
+        <author>
+            <name>BE Johansson</name>
+        </author>
+        <link href="https://belajosa.github.io/gh-pages/parkinson-umea.html"/>
+        <id>https://belajosa.github.io/gh-pages/parkinson-umea.html</id>
+
+        <updated>2018-06-12T04:45:46+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://belajosa.github.io/gh-pages/media/posts/1/pvbntulpanliten.jpg" alt="" />
+                <p>Här finns ...</p>
+<p> </p>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

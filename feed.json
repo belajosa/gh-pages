@@ -1,0 +1,41 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Parkinson Västerbotten",
+    "description": "",
+    "home_page_url": "https://belajosa.github.io/gh-pages",
+    "feed_url": "https://belajosa.github.io/gh-pages/feed.json",
+    "user_comment": "",
+    "icon": "https://belajosa.github.io/gh-pages/media/website/tulpaner_illustration.jpg",
+    "author": {
+        "name": "BE Johansson"
+    },
+    "items": [
+        {
+            "id": "https://belajosa.github.io/gh-pages/parkinson-umea-2.html",
+            "url": "https://belajosa.github.io/gh-pages/parkinson-umea-2.html",
+            "title": "Parkinson Umeå",
+            "content_html": "<p class=\"msg msg--highlight \"><strong>Text här</strong></p>\n<p class=\"msg msg--highlight \"><strong>Mera text</strong></p>",
+            "author": {
+                "name": "BE Johansson"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-06-09T04:04:27+02:00",
+            "date_modified": "2018-06-09T04:04:27+02:00"
+        },
+        {
+            "id": "https://belajosa.github.io/gh-pages/parkinson-umea.html",
+            "url": "https://belajosa.github.io/gh-pages/parkinson-umea.html",
+            "title": "Parkinson Umeå",
+            "content_html": "<p>Här finns ...</p>\n<p> </p>\n<p> </p>\n<p> </p>",
+            "image": "https://belajosa.github.io/gh-pages/media/posts/1/pvbntulpanliten.jpg",
+            "author": {
+                "name": "BE Johansson"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-01-11T05:28:02+01:00",
+            "date_modified": "2018-06-12T04:45:46+02:00"
+        }
+    ]
+}
