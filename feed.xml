@@ -3,12 +3,29 @@
     <title>Parkinson Västerbotten</title>
     <link href="https://belajosa.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://belajosa.github.io/gh-pages" />
-    <updated>2018-07-20T13:48:35+02:00</updated>
+    <updated>2018-07-20T15:02:47+02:00</updated>
     <author>
         <name>BE Johansson</name>
     </author>
     <id>https://belajosa.github.io/gh-pages</id>
 
+    <entry>
+        <title>Kommande aktiviteter</title>
+        <author>
+            <name>BE Johansson</name>
+        </author>
+        <link href="https://belajosa.github.io/gh-pages/kommande-aktiviteter.html"/>
+        <id>https://belajosa.github.io/gh-pages/kommande-aktiviteter.html</id>
+
+        <updated>2018-07-20T15:02:14+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://belajosa.github.io/gh-pages/media/posts/3/" alt="" />
+                28 augusti   Holken Yttersjö,  Se kommande annonser
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Parkinson Umeå</title>
         <author>

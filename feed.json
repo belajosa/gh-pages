@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://belajosa.github.io/gh-pages/kommande-aktiviteter.html",
+            "url": "https://belajosa.github.io/gh-pages/kommande-aktiviteter.html",
+            "title": "Kommande aktiviteter",
+            "content_html": "28 augusti   Holken Yttersjö,  Se kommande annonser",
+            "image": "https://belajosa.github.io/gh-pages/media/posts/3/",
+            "author": {
+                "name": "BE Johansson"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-07-20T13:54:36+02:00",
+            "date_modified": "2018-07-20T15:02:14+02:00"
+        },
+        {
             "id": "https://belajosa.github.io/gh-pages/parkinson-umea-2.html",
             "url": "https://belajosa.github.io/gh-pages/parkinson-umea-2.html",
             "title": "Parkinson Umeå",
