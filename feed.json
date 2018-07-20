@@ -28,7 +28,7 @@
             "id": "https://belajosa.github.io/gh-pages/parkinson-umea.html",
             "url": "https://belajosa.github.io/gh-pages/parkinson-umea.html",
             "title": "Parkinson Umeå",
-            "content_html": "<p>Här finns ...</p>\n<p> </p>\n<p> </p>\n<p> </p>",
+            "content_html": "<h2>Här finns ...</h2>\n<p><img src=\"https://belajosa.github.io/gh-pages/media/posts/1/Holken.jpg\" alt=\"Holkern\" width=\"150\" height=\"200\"></p>\n<p> </p>\n<p> </p>\n<p> </p>",
             "image": "https://belajosa.github.io/gh-pages/media/posts/1/pvbntulpanliten.jpg",
             "author": {
                 "name": "BE Johansson"
@@ -36,7 +36,7 @@
             "tags": [
             ],
             "date_published": "2018-01-11T05:28:02+01:00",
-            "date_modified": "2018-06-12T04:45:46+02:00"
+            "date_modified": "2018-07-20T13:47:08+02:00"
         }
     ]
 }
